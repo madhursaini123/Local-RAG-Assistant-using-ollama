@@ -9,7 +9,7 @@ A fully local, privacy‑focused AI assistant that answers questions **only from
 - 🔒 **100% offline** – your data never leaves your computer
 - 📄 Supports **PDF, DOCX, TXT** files
 - 🧠 **Hybrid search** (vector + BM25) for accurate retrieval
-- 🎯 **Exact answer extraction** for dates, numbers, fees (Premium version)
+- 🎯 **Exact answer extraction** for dates, numbers, fees
 - 💬 Clean **chat interface** (Streamlit)
 - 🖥️ Works on **Windows, macOS, Linux** (with Ollama)
 
