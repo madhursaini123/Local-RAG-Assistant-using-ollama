@@ -14,6 +14,9 @@ A fully local, privacy‑focused AI assistant that answers questions **only from
 - 🖥️ Works on **Windows, macOS, Linux** (with Ollama)
 
 ## 🚀 Quick Start
+install Ollama
+https://ollama.com/download/windows
+
 
 ### Prerequisites
 - [Ollama](https://ollama.com) installed and running
