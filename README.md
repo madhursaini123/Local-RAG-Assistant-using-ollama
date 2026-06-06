@@ -23,3 +23,5 @@ https://ollama.com/download/windows
 - A model pulled, e.g.  
   ```bash
   ollama pull llama3.2:3b
+After code run and write in terminal:
+streamlit app_basic.py
